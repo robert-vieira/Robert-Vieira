@@ -34,9 +34,7 @@ Estou sempre em busca de novos desafios, tecnologias e experiências que contrib
 
 ---
 
----
-
----
+### 🌐 Redes Sociais
 
 ### 🌐 Redes Sociais
 
@@ -45,16 +43,16 @@ Estou sempre em busca de novos desafios, tecnologias e experiências que contrib
     <img 
       alt="LinkedIn"
       title="LinkedIn"
-      width="32px"
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      width="35px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
     />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/robertaugust0/">
     <img 
       alt="Instagram"
       title="Instagram"
-      width="32px"
+      width="35px"
       src="https://cdn.simpleicons.org/instagram/E4405F"
     />
   </a>
