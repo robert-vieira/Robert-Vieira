@@ -45,7 +45,7 @@ Estou sempre em busca de novos desafios, tecnologias e experiências que contrib
     />
   </a>
 
-  <a href="LINK_DO_SEU_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com" target="_blank">
     <img 
       alt="Instagram"
       title="Instagram"
