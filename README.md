@@ -45,7 +45,7 @@ Estou sempre em busca de novos desafios, tecnologias e experiências que contrib
     />
   </a>
 
-  <a href="https://www.instagram.com" target="_blank">
+  <a href="https://www.instagram.com](https://www.instagram.com/robertaugust0/" target="_blank">
     <img 
       alt="Instagram"
       title="Instagram"
