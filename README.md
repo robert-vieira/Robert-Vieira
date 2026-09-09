@@ -34,6 +34,8 @@ Estou sempre em busca de novos desafios, tecnologias e experiências que contrib
 
 ---
 
+---
+
 ### 🌐 Redes Sociais
 
 <p align="left">
@@ -41,15 +43,17 @@ Estou sempre em busca de novos desafios, tecnologias e experiências que contrib
     <img 
       alt="LinkedIn"
       title="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-Robert%20Vieira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      width="35px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
     />
   </a>
-
-  <a href="https://www.instagram.com](https://www.instagram.com/robertaugust0/" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/robertaugust0/" target="_blank">
     <img 
       alt="Instagram"
       title="Instagram"
-      src="https://img.shields.io/badge/Instagram-Robert%20Vieira-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      width="35px"
+      src="https://cdn.simpleicons.org/instagram/E4405F"
     />
   </a>
 </p>
