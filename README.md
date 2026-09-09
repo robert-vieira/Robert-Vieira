@@ -47,7 +47,6 @@ Estou sempre em busca de novos desafios, tecnologias e experiências que contrib
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
     />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/robertaugust0/" target="_blank">
     <img 
       alt="Instagram"
