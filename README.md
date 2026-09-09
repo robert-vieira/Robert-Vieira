@@ -36,9 +36,7 @@ Estou sempre em busca de novos desafios, tecnologias e experiências que contrib
 
 ### 🌐 Redes Sociais
 
-### 🌐 Redes Sociais
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/robert-augusto-5397903a0"><img alt="LinkedIn" title="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
+  <a href="https://www.linkedin.com/in/robert-augusto-5397903a0"><img alt="LinkedIn" title="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/robertaugust0/"><img alt="Instagram" title="Instagram" width="35px" src="https://cdn.simpleicons.org/instagram/E4405F"/></a>
 </p>
