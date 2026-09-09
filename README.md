@@ -1,14 +1,14 @@
 # 💻 Robert Vieira
 
-**`Desenvolvedor Full-Stack em formação | Foco em Back-End`**
+**`Desenvolvedor Full-Stack`**
 
-Sou desenvolvedor em formação pelo **Itera360**, com foco principalmente em desenvolvimento Back-End.
+Olá! Me chamo **Robert Vieira**, tenho 18 anos e sou natural de **Belo Horizonte, Minas Gerais**.
 
-Tenho conhecimento em **C#, .NET, ASP.NET Core, Node.js, APIs REST, CRUD e bancos de dados**, além de conhecimentos em **React, HTML e CSS** para desenvolvimento Front-End.
+Sou **Desenvolvedor Full-Stack** e apaixonado pela área de tecnologia. Sempre tive fascínio por aprender coisas novas, entender como sistemas funcionam e transformar conhecimento em projetos na prática.
 
-Também utilizo **Git, Git Flow, GitHub, Swagger e Scrum** durante o desenvolvimento dos meus projetos.
+Atualmente, venho aprimorando meus conhecimentos através do **Itera360** e de projetos próprios, trabalhando com **C#, .NET, ASP.NET Core, Node.js, APIs REST, bancos de dados, React, HTML e CSS**.
 
-Atualmente estou desenvolvendo projetos próprios e buscando evoluir constantemente meus conhecimentos em desenvolvimento de software.
+Estou sempre em busca de novos desafios, tecnologias e experiências que contribuam para minha evolução como desenvolvedor.
 
 ---
 
