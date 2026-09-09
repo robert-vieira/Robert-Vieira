@@ -6,7 +6,7 @@ Olá! Me chamo **Robert Vieira**, tenho 18 anos e sou natural de **Belo Horizont
 
 Sou **Desenvolvedor Full-Stack** e apaixonado pela área de tecnologia. Sempre tive fascínio por aprender coisas novas, entender como sistemas funcionam e transformar conhecimento em projetos na prática.
 
-Atualmente, venho aprimorando meus conhecimentos através do **Itera360** e de projetos próprios, trabalhando com **C#, .NET, ASP.NET Core, Node.js, APIs REST, bancos de dados, React, HTML e CSS**.
+Atualmente, venho aprimorando meus conhecimentos através de projetos próprios, trabalhando com **C#, .NET, ASP.NET Core, Node.js, APIs REST, bancos de dados, React, HTML e CSS**.
 
 Estou sempre em busca de novos desafios, tecnologias e experiências que contribuam para minha evolução como desenvolvedor.
 
