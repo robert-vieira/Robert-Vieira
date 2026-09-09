@@ -31,3 +31,25 @@ Estou sempre em busca de novos desafios, tecnologias e experiências que contrib
   &nbsp;&nbsp;
   <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </p>
+
+---
+
+### 🌐 Redes Sociais
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/robert-augusto-5397903a0" target="_blank">
+    <img 
+      alt="LinkedIn"
+      title="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-Robert%20Vieira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
+  <a href="LINK_DO_SEU_INSTAGRAM" target="_blank">
+    <img 
+      alt="Instagram"
+      title="Instagram"
+      src="https://img.shields.io/badge/Instagram-Robert%20Vieira-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+  </a>
+</p>
