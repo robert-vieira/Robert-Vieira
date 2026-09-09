@@ -1,50 +1,97 @@
-# 👨‍💻 Robert Vieira
+# 💻 Robert Vieira
 
-### Desenvolvedor Full-Stack em formação | Foco em Back-End
+**`Desenvolvedor Full-Stack em formação | Foco em Back-End`**
 
-Sou desenvolvedor em formação pelo **Itera360**, com maior foco em desenvolvimento Back-End utilizando **C# e .NET**.
+Sou desenvolvedor em formação pelo **Itera360**, com foco principalmente em desenvolvimento Back-End.
 
-Tenho experiência prática na construção de **APIs REST, sistemas CRUD, integração com Inteligência Artificial, bancos de dados e aplicações web**, além de conhecimentos em desenvolvimento Front-End com React e JavaScript.
+Tenho conhecimento em **C#, .NET, ASP.NET Core, Node.js, APIs REST, CRUD e bancos de dados**, além de conhecimentos em **React, HTML e CSS** para desenvolvimento Front-End.
 
-Atualmente continuo desenvolvendo projetos próprios e aprofundando meus conhecimentos em arquitetura, boas práticas e desenvolvimento de software.
+Também utilizo **Git, Git Flow, GitHub, Swagger e Scrum** durante o desenvolvimento dos meus projetos.
 
----
-
-## 🛠️ Linguagens e Tecnologias
-
-### ⚙️ Back-End
-
-![C#](https://img.shields.io/badge/C%23-Avançando-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-Avançando-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Intermediário-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Básico-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🎨 Front-End
-
-![React](https://img.shields.io/badge/React-Intermediário-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediário-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-Intermediário-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-Intermediário-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Banco de Dados
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-Intermediário-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-Intermediário-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔧 Ferramentas e Conceitos
-
-![Git](https://img.shields.io/badge/Git-Git_Flow-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Versionamento-181717?style=for-the-badge&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Scrum](https://img.shields.io/badge/Scrum-Metodologia_Ágil-6DB33F?style=for-the-badge)
+Atualmente estou desenvolvendo projetos próprios e buscando evoluir constantemente meus conhecimentos em desenvolvimento de software.
 
 ---
 
-## 📊 Meu foco técnico
+### 🤖 Linguagens e Tecnologias
 
-```text
-Back-End       █████████████████░░░  85%
-Banco de Dados ███████████████░░░░░  75%
-Front-End      ████████████░░░░░░░░  60%
-Git / Git Flow ███████████████░░░░░  75%
-APIs REST      █████████████████░░░  85%
+<p align="left">
+    <img 
+        alt="CSharp"
+        title="C#"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+    />
+    <img 
+        alt="DotNet"
+        title=".NET"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+    />
+    <img 
+        alt="NodeJS"
+        title="Node.js"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+    />
+    <img 
+        alt="React"
+        title="React"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    />
+    <img 
+        alt="HTML"
+        title="HTML"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    />
+    <img 
+        alt="CSS"
+        title="CSS"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    />
+    <img 
+        alt="SQLServer"
+        title="SQL Server"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    />
+    <img 
+        alt="Git"
+        title="Git"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    />
+    <img 
+        alt="GitHub"
+        title="GitHub"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    />
+</p>
+
+<br/>
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=robert-vieira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-vieira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
